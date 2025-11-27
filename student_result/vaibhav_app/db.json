@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "vaibhav",
+      "section": "3CB",
+      "marks": "87",
+      "grade": "A",
+      "id": 4
+    },
+    {
+      "name": "vaibhav",=
+      '
+      "section": "3CA",
+      "marks": "99",
+      "grade": "A",
+      "id": 5
+    },
+    {
+      "name": "vaibhav",
+      "section": "3CA",
+      "marks": "100",
+      "grade": "A",
+      "id": 6
+    },
+    {
+      "name": "stakeexplorer",
+      "section": "3CA",
+      "marks": "77",
+      "grade": "A",
+      "id": 7
+    },
+    {
+      "name": "stakeexplorer",
+      "section": "3CC",
+      "marks": "94",
+      "grade": "B",
+      "id": 8
+    }
+  ]
+}
